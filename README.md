@@ -1,0 +1,6 @@
+full basic to advanced Django Project. 
+
+dont get stucked in Tutorial Hell , start building Projects , solve real issues and improve Development...
+
+
+Happy Coding.... 
